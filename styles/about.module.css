@@ -1,0 +1,78 @@
+.container {
+  max-width: 60vw;
+  margin: 45px auto;
+}
+
+.center {
+  text-align: center;
+}
+.aboutl{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.aboutl1{
+  font-size: 1.1rem;
+}
+.red {
+  color: #e90101;
+}
+
+.description { 
+  /* line-height: 1.5; */
+  font-size: 1.5rem;
+  max-width: 55vw;
+  padding: 0;
+  margin: 0;
+}
+
+.code {
+  background: #fafafa;
+  border-radius: 5px;
+  padding: 0.75rem;
+  font-size: 1.1rem;
+  font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
+    Bitstream Vera Sans Mono, Courier New, monospace;
+}
+
+@media only screen and (min-width: 300px) and (max-device-width: 600px) {
+  .container {
+    max-width: 90vw;
+    margin: 35px auto;
+  }
+}
+
+
+@media only screen and (min-width: 610px) and (max-device-width: 800px) {
+    .container {
+      max-width: 80vw;
+      margin: 40px auto;
+    }
+  }
+
+  @media only screen and (min-width: 802px) and (max-device-width: 1000px) {
+    .container {
+      max-width: 70vw;
+      margin: 43px auto;
+    }
+  }
+
+  @media only screen and (min-width: 1001px) and (max-device-width: 1200px) {
+    .container {
+      max-width: 70vw;
+      margin: 45px auto;
+    }
+  }
+
+  @media only screen and (min-width: 200px) and (max-device-width: 700px) {
+    .aboutl {
+      display: flex;
+      flex-direction: column;
+    }
+  }
+
+
+
+
+
+  
