@@ -37,17 +37,16 @@ Set up mongodb database string in backend then db.js file
 
 ## Tech Stack
 
-**Client:** NextJS, NextUi
+**Client:** NextJS, NextUI
 
 **Server:** Node,NextJS
 
 
 ## Screenshots
 
-![App Screenshot](https://github.com/CrossStack-Q/Cross_Note/blob/main/assets/Home.png?raw=true)
-![App Screenshot](https://github.com/CrossStack-Q/Cross_Note/blob/main/assets/SIgnUp.png?raw=true)
-![App Screenshot](https://github.com/CrossStack-Q/Cross_Note/blob/main/assets/Note.png?raw=true)
-![App Screenshot](https://github.com/CrossStack-Q/Cross_Note/blob/main/assets/Edit.png?raw=true)
+![App Screenshot](https://github.com/CrossStack-Q/Special_Coder/blob/main/Screenshots/oke.png?raw=true)
+![App Screenshot](https://github.com/CrossStack-Q/Special_Coder/blob/main/Screenshots/ome.png?raw=true)
+![App Screenshot](https://github.com/CrossStack-Q/Special_Coder/blob/main/Screenshots/ole.png?raw=true)
 
 
 ## Authors
