@@ -4,8 +4,8 @@ Special Coder is blogs of codeing for a developer made a web app using nextJS.
 
 This App is made in NextJS.
 
-<!-- ## Demo [@try_it_now](https://crossstack-q.github.io/Cross_Note/) -->
-**Click above link then click on Cross_Note logo**
+<!-- ## Demo [@try_it_now](https://crossstack-q.github.io/Special_Coder/) -->
+**Hosting Next App is a complicated process**
 
 
 ## Installation
